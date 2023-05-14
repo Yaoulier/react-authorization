@@ -1,0 +1,180 @@
+body {
+  margin: 0;
+  font-family: -apple-system, 'Segoe UI', 'Manrope';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.textLogin {
+  position: absolute;
+  width: 368px;
+  height: 66px;
+  left: 136px;
+  top: 201px;
+
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 66px;
+
+  color: #000000;
+}
+
+.loginText {
+  position: absolute;
+  width: 207px;
+  height: 19px;
+  left: 136px;
+  top: 339px;
+
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #000000;
+}
+
+.login {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 504px;
+  height: 48px;
+  left: 136px;
+  top: 379px;
+
+  background: #FFFFFF;
+  border: 1px solid #00CE65;
+  border-radius: 10px;
+}
+
+.passwordText {
+  position: absolute;
+  width: 144px;
+  height: 19px;
+  left: 136px;
+  top: 448px;
+
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #000000;
+}
+
+.password {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 504px;
+  height: 48px;
+  left: 136px;
+  top: 488px;
+
+  background: #FFFFFF;
+  border: 1px solid #00CE65;
+  border-radius: 10px;
+}
+
+.checkForget {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  left: 136px;
+  top: 560px;
+
+  background: #FFFFFF;
+  border: 1px solid #E3E2E2;
+  border-radius: 6px;
+}
+
+.dontForget {
+  position: absolute;
+  width: 363px;
+  height: 57px;
+  left: 179px;
+  top: 563px;
+
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+
+  letter-spacing: 0.25px;
+
+  color: #000000;
+}
+
+.loginButton {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 24px;
+  gap: 16px;
+
+  position: absolute;
+  width: 504px;
+  height: 50px;
+  left: 136px;
+  top: 640px;
+
+  background: #B4C1CC;
+  border: none;
+  border-radius: 70px;
+
+  font-family: 'Inter';
+  color: #FFFFFF;
+}
+
+.infoAllIslam {
+  position: absolute;
+  width: 410px;
+  height: 88px;
+  left: 858px;
+  top: 300px;
+
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.mainAllIslam {
+  color: #01AD55;
+}
+
+.main {
+  position: absolute;
+  width: 549px;
+  height: 336px;
+  left: 785px;
+  top: 450px;
+}
+
+.shadow {
+  position: absolute;
+  width: 645px;
+  height: 367px;
+  left: 785px;
+  top: 423px;
+  opacity: 0.7;
+}
+
+.tasksPage {
+  position: absolute;
+  width: 468px;
+  height: 272px;
+  left: 825px;
+  top: 466px;
+  mix-blend-mode: normal;
+}
